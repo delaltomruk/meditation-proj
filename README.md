@@ -8,7 +8,7 @@ In the improved version, we will implement an interface where the user can input
 
 Python Version: 3.7
 
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+Packages: selenium, json, beautiful soup
 
 Scraper: 
 - Eksi Sozluk: https://github.com/bariscimen/EksiSozlukEntryCrawler

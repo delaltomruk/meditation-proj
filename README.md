@@ -27,6 +27,11 @@ After data collection, we've cleaned it up to make it easily usable. The followi
 
 @EmirLise
 
+## Exploratory Data Analysis (EDA)
+## Building a Model
+## Model Performance
+## Productionization
+
 ## Code and Resources Used
 
 Python Version: 3.7

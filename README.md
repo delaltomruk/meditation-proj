@@ -4,6 +4,10 @@ The goal of this project is to gain insights on different factors that would aff
 
 In the improved version, we will implement an interface where the user can input different variables and decide on their optimum meditation practice.
 
+## Data Collection
+
+## Data Cleaning
+
 ## Code and Resources Used
 
 Python Version: 3.7

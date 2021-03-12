@@ -24,8 +24,10 @@ Collected the following data from different social media websites (tweaked some 
 ## Data Cleaning
 
 After data collection, we've cleaned it up to make it easily usable. The following changes were made: 
-
-@EmirLise
+- We first created the json tables as we failed to read the json files directly to pandas DataFrames by pandas functions while normalizing.
+- Instead, we used pandas.json_normalize() at the the tables to create the DataFrames. 
+- We inspected the DataFrames, and found review date, review itself, and review rating (if it had any) to be useful for our semantic analysis. Thus, we dropped rest of the columns such as the reviewer_ID, and other attributes of the reviews. 
+- Then we converted the DataFrames to csv files for further data visualization and analysis. 
 
 ## Exploratory Data Analysis (EDA)
 ## Building a Model

@@ -30,9 +30,8 @@ After data collection, we've cleaned it up to make it easily usable. The followi
 - Then we converted the DataFrames to csv files for further data visualization and analysis. 
 
 ## Exploratory Data Analysis (EDA)
-## Building a Model
-## Model Performance
-## Productionization
+
+Implemented sentiment analysis.
 
 ## Code and Resources Used
 

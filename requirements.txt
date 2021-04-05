@@ -1,0 +1,10 @@
+certifi==2020.12.5
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+numpy @ file:///opt/concourse/worker/volumes/live/317d3633-3972-452c-494a-92900a1134d5/volume/numpy_and_numpy_base_1607448161283/work
+pandas==1.2.3
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+scikit-learn @ file:///opt/concourse/worker/volumes/live/4bc3a643-30b5-4d0d-5ecd-04c737564a67/volume/scikit-learn_1614446665910/work
+scipy @ file:///opt/concourse/worker/volumes/live/29116c5f-1cf9-4979-736f-16edc41b0109/volume/scipy_1616703217781/work
+six @ file:///opt/concourse/worker/volumes/live/34b5b2b5-c9cb-44fb-4b8e-8a9a881bfa35/volume/six_1605205329242/work
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
